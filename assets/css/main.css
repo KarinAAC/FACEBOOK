@@ -1,0 +1,12 @@
+.contenedor-total-login{
+  text-align:center;
+  padding: 195px;
+
+}
+/* funcionalidad mensaje de error*/
+#mensaje-email{
+  display: none;
+}
+#mensaje-password{
+  display: none;
+}
